@@ -10,4 +10,11 @@
   <?php  include("product-list.html"); ?>
   <?php  include("wishlist.html"); ?>
 
+  <?php  include("buscar_libro.php"); ?>
+  <?php  include("conexion.php"); ?>
+  <?php  include("insertar.php"); ?>
+  <?php  include("login.php"); ?>
+  
+
+
  
