@@ -1,8 +1,8 @@
 
-  <?php  include("cart.html"); ?>
+  <?php  include("index.html"); ?>
   <?php  include("checkout.html"); ?>
   <?php  include("contact.html"); ?>
-  <?php  include("index.html"); ?>
+  <?php  include("cart.html"); ?>
   <?php  include("login.html"); ?>
   <?php  include("my-account.html"); ?>
   <?php  include("product.html"); ?>
